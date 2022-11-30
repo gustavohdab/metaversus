@@ -1,3 +1,6 @@
+/* eslint-disable react/jsx-wrap-multilines */
+/* eslint-disable quotes */
+
 "use client";
 
 import { motion } from "framer-motion";
