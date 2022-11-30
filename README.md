@@ -1,6 +1,6 @@
 <h1 align="center"> Metaversus </h1>
 
-> Check the live demo in: [Metaversus](#)
+> Check the live demo in: [Metaversus](https://metaversus-gustavohdab.vercel.app/)
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
